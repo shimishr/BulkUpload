@@ -1,0 +1,10 @@
+C:\Users\shimishr\Downloads\SpringBatchCSVPostgreSQL\src\main\java\com\javasampleapproach\batchcsvpostgresql\controller\WebController.java
+C:\Users\shimishr\Downloads\SpringBatchCSVPostgreSQL\src\main\java\com\javasampleapproach\batchcsvpostgresql\step\Processor.java
+C:\Users\shimishr\Downloads\SpringBatchCSVPostgreSQL\src\main\java\com\javasampleapproach\batchcsvpostgresql\SpringBatchCsvPostgreSqlApplication.java
+C:\Users\shimishr\Downloads\SpringBatchCSVPostgreSQL\src\main\java\com\javasampleapproach\batchcsvpostgresql\config\BatchConfig.java
+C:\Users\shimishr\Downloads\SpringBatchCSVPostgreSQL\src\main\java\com\javasampleapproach\batchcsvpostgresql\dao\impl\CustomerDaoImpl.java
+C:\Users\shimishr\Downloads\SpringBatchCSVPostgreSQL\src\main\java\com\javasampleapproach\batchcsvpostgresql\step\Writer.java
+C:\Users\shimishr\Downloads\SpringBatchCSVPostgreSQL\src\main\java\com\javasampleapproach\batchcsvpostgresql\step\Listener.java
+C:\Users\shimishr\Downloads\SpringBatchCSVPostgreSQL\src\main\java\com\javasampleapproach\batchcsvpostgresql\dao\CustomerDao.java
+C:\Users\shimishr\Downloads\SpringBatchCSVPostgreSQL\src\main\java\com\javasampleapproach\batchcsvpostgresql\step\Reader.java
+C:\Users\shimishr\Downloads\SpringBatchCSVPostgreSQL\src\main\java\com\javasampleapproach\batchcsvpostgresql\model\Customer.java
